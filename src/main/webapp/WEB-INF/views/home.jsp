@@ -8,10 +8,7 @@
 </head>
 <body>
 
-<h3>Index Page</h3>
-<form action="/home">
-    <input type="submit" value="Go To Home"/>
-</form>
+<h3>Welcome to Home Page</h3>
 
 <br/>
 <br/>
