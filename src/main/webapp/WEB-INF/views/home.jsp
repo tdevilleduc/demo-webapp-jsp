@@ -4,12 +4,11 @@
 
 <html>
     <head>
-        <%@include file="includes/header.jsp" %>
+        <%@include file="includes/head.jsp" %>
     </head>
     <body>
+        <%@include file="includes/header.jsp" %>
         <h3>Welcome to HomePage</h3>
-        <br/>
-        <br/>
-        <p>&copy 2020 tdevilleduc</p>
+        <%@include file="includes/footer.jsp" %>
     </body>
 </html>
